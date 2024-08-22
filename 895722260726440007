@@ -1,0 +1,43 @@
+{
+    "customBadgesArray": false,
+    "aliu": {
+        "dev": false,
+        "donor": false,
+        "contributor": false,
+        "custom": false
+    },
+    "bd": {
+        "dev": false
+    },
+    "goosemod": {
+        "sponsor": false,
+        "dev": false,
+        "translator": false
+    },
+    "enmity": {},
+    "replugged": {
+        "developer": false,
+        "staff": false,
+        "support": false,
+        "contributor": false,
+        "translator": false,
+        "hunter": false,
+        "early": false,
+        "booster": false,
+        "custom": {
+            "name": null,
+            "icon": null,
+            "color": null
+        }
+    },
+    "vencord": {
+        "contributor": false,
+        "cutie": [
+            {
+                "tooltip": "UwU :3",
+                "badge": "https://badges.vencord.dev/badges/895722260726440007/1-840746cc3d4742f0f0116fbb878ed10b14fa793e.gif"
+            }
+        ]
+    },
+    "userpfp": false
+}
